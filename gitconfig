@@ -1,0 +1,3 @@
+# https://github.com/golang/go/issues/51253?ysclid=ls270l7non322319030
+[safe]
+    directory = *
